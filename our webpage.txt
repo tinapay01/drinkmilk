@@ -1,6 +1,6 @@
 <html>
 <head> 
-      <title> Group 6 TLE </title>
+      <title> Group 06 TLE </title>
 </head>
 <body background="border.jpg"> <p align="center">
 <B> <H1> <font color="green"> <center> <font face="Arial Black"> Homepage </H1> </center> </B> 
