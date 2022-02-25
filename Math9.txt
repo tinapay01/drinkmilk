@@ -1,0 +1,16 @@
+<html>
+<head> 
+      <title> MATH </title>
+</head>
+<body bgcolor="#D0F0C0">
+<center>
+<img src="green.gif" alt="Image" height="300" width="300">
+<img src="Ms.MATH.jpg" alt="Image" height="300" width="300">
+	<B> <U> <h1> <font color="black"> Welcome to Mathematics </B> </U> </f> </h1>
+<h2> <font color ="green"> Third Quarter Performance Task</h2> 
+<h2> <font color ="black"> click the link down below ;) </h2>
+<a href="https://youtu.be/BJlkaqopLkM"> A Message of Hope </a>
+<br>
+<img src="artwork.jpeg" alt="Image" height="400" width="300">
+</body>
+</html>
